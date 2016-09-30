@@ -1,2 +1,19 @@
 # clan-panel-old
-Old clan panel for learning purpose
+IS not so that you can download and compile. It is for you to learn how these scripts work and implement your own scripts.
+This script is clearly outdated.
+
+# Important file(s)
+
+1.	NinjaAssociationPanel.as
+
+# A few changes...
+
+1.	https://cdn.static.ninjasaga.com/swf/ Change to the latest, check it from fiddler/charles
+2.	On the function getBattleDefender the hashing of loc1 must be done as : loc1 + size of swf(in this case clan panel swf in bytes)
+Example: Central.main.getHash(loc1+"90928");
+
+# Contact
+https://fb.com/xwave.tide (please don't pm asking how to set up charles/fiddler)
+
+
+
