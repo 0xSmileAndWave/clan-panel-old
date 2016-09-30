@@ -4,7 +4,7 @@ This script is clearly outdated.
 
 # Important file(s)
 
-1.	clan-panel-old/ninja_association.swf_as/ninjasaga/linkage/
+1.	clan-panel-old/ninja_association.swf_as/ninjasaga/linkage/ninja_association.as
 
 # A few changes...
 
