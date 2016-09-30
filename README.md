@@ -15,5 +15,8 @@ Example: Central.main.getHash(loc1+"90928");
 # Contact
 https://fb.com/xwave.tide (please don't pm asking how to set up charles/fiddler)
 
+# Credits
+Aqhmal and Flash NSc
+
 
 
