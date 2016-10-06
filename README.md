@@ -19,5 +19,10 @@ https://fb.com/xwave.tide (please don't pm asking how to set up charles/fiddler)
 # Credits
 Aqhmal and Flash NSc
 
+# other releases
+https://github.com/0xSmileAndWave/Desktop-clan-panel
+
+https://github.com/0xSmileAndWave/vanilla-ninja-association
+
 
 
