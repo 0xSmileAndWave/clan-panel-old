@@ -3,6 +3,8 @@ IS not so that you can download and compile. It is for you to learn how these sc
 This script is clearly outdated.
 GAME: https://apps.facebook.com/ninjasaga
 
+.FLA was created using ADOBE FLASH CS5
+
 # Important file(s)
 
 1.	clan-panel-old/ninja_association.swf_as/ninjasaga/linkage/ninja_association.as
