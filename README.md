@@ -1,6 +1,7 @@
 # clan-panel-old
 IS not so that you can download and compile. It is for you to learn how these scripts work and implement your own scripts.
 This script is clearly outdated.
+GAME: https://apps.facebook.com/ninjasaga
 
 # Important file(s)
 
